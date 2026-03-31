@@ -4,7 +4,7 @@
 #
 
 app = 'cantkills0lace'
-primary_region = 'iad'
+primary_region = 'mia'
 
 [build]
 
@@ -20,4 +20,4 @@ primary_region = 'iad'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
-  memory_mb = 1024
+  memory_mb = 1080
